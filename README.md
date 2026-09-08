@@ -1,6 +1,6 @@
-# Oniooo.com 🎨
+# Lemona Hub 🎨
 
-> Everything in Oniooo.com
+> Everything in Lemona Hub
 
 A modern Next.js application that powers **Melody**, an AI-powered creative assistant platform. Create stunning images, videos, music, and more with cutting-edge AI tools—all from a single, seamless interface.
 
